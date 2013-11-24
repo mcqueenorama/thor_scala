@@ -1,0 +1,12 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala" output="target/scala-2.9.1/classes"/>
+  <classpathentry kind="src" path="src/main/java" output="target/scala-2.9.1/classes"/>
+  <classpathentry kind="src" path="src/test/scala" output="target/scala-2.9.1/test-classes"/>
+  <classpathentry kind="src" path="src/test/java" output="target/scala-2.9.1/test-classes"/>
+  <classpathentry kind="lib" path="./lib/bukkit-1.2.3-R0.2.jar"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry kind="lib" path="/Users/bmcquee/.ivy2/cache/org.bukkit/bukkit/jars/bukkit-1.2.5-R3.0.jar"/>
+  <classpathentry kind="lib" path="/Users/bmcquee/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.4.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
